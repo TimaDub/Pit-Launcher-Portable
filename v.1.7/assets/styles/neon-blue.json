@@ -1,0 +1,9 @@
+{
+  "neon-blue": ["rgb(10, 10, 10)",
+             "rgb(52, 0, 222)",
+             "qlineargradient(x1:0, y1:0, x2:1, y2:0, stop:0 #831ee8, stop:1 #e81e1e)",
+             "qlineargradient(x1:0, y1:0, x2:1, y2:0, stop:0 #7661A2, stop:1 #e81e1e)",
+             "rgb(255, 255, 255)",
+             "rgb(131, 30, 232)",
+             "rgb(10, 10, 10)"]
+}
