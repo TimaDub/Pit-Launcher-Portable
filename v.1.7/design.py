@@ -1,3 +1,7 @@
+# Copyright (c) 2024, [Tymofii Dubovyi]
+# Licensed under the MIT License.
+# See LICENSE file for details.
+
 def apply_style(style, font):
     background_color, text_color, button_color, progress_bar_color, progress_bar_text_color, selected_tab_color, selected_tab_background_color = style
 

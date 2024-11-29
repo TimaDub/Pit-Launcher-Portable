@@ -1,3 +1,7 @@
+# Copyright (c) 2024, [Tymofii Dubovyi]
+# Licensed under the MIT License.
+# See LICENSE file for details.
+
 import sys
 from sys import argv
 from PyQt5.QtCore import QThread, pyqtSignal, QSize, Qt

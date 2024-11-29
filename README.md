@@ -61,3 +61,5 @@ For mod loaders, make sure to have **Java 17 or higher** installed on your syste
 ## Enjoy your game! 🎮✨
 
 **Made by [@TimaDub](https://github.com/TimaDub)**
+
+### Copyright (c) 2024, [Tymofii Dubovyi] Licensed under the MIT License. See LICENSE file for details.

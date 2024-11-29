@@ -1,3 +1,7 @@
+# Copyright (c) 2024, [Tymofii Dubovyi]
+# Licensed under the MIT License.
+# See LICENSE file for details.
+
 import sys
 from functools import lru_cache
 from os import path, mkdir, scandir
