@@ -1,4 +1,4 @@
-![Pit Launcher](v.1.7/assets/images/logos/icon.png)
+![Pit Launcher](v.1.7/assets/images/logos/logo.png)
 
 # "Pit Launcher Portable" by Tymofii Dubovyi (Pit Corporation)
 
