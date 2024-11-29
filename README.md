@@ -4,7 +4,8 @@
 
 ```commandline
 pip install -r requirements.txt
-python v.1.7/main.py
+cd v.1.7
+python main.py
 ```
 
 # Welcome to the Minecraft Launcher!
